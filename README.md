@@ -17,7 +17,12 @@ Este é um projeto simples do jogo **Batalha Naval**, feito em linguagem C, dese
 ### 🔺 Nível Mestre
 - Habilidades especiais (Cone, Cruz, Octaedro)
 - Cada habilidade com área de efeito sobre o tabuleiro
-- Exibição clara de água, navio e habilidade com cores
+- Exibição clara de água, navio e habilidade com **cores ANSI** (azul e verde)
+
+### 🎨 Cores no Terminal (ANSI)
+- **Água** é mostrada com a cor **azul**
+- **Navios acertados** são mostrados em **verde**
+- Terminal colorido melhora a experiência visual
 
 👨‍💻 Feito por: Rodrigo Gomes
 
@@ -26,6 +31,7 @@ Este é um projeto simples do jogo **Batalha Naval**, feito em linguagem C, dese
 🏫 Faculdade: Estácio de Sá
 
 👨‍🏫 Professor: Sérgio Cardoso e Nathan de Freitas Alves
+
 
 ## 🎮 Como jogar
 
